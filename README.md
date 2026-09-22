@@ -198,7 +198,7 @@ pedido.alterarStatus(StatusPedido.ENTREGUE);
 ### 1. Clone o repositório
 
 ```bash
-git clone <https://github.com/Gabas878/sistema-gestao-pedidos-java?utm_source=chatgpt.com>
+git clone <https://github.com/Gabas878/sistema-gestao-pedidos-java>
 ```
 
 ### 2. Abra o projeto
